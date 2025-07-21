@@ -1,59 +1,54 @@
-Project Overview
-EcoVoyage is a responsive landing page for a sustainable travel company that promotes eco-friendly tourism experiences. The website features an interactive navigation menu, engaging content sections, and a clean, modern design focused on environmental responsibility.
 
-Live Demo
-The project is live at: https://ramneetk0002.github.io/SCT_WD_1/
+# Project Overview
 
-Features
-1. Interactive Navigation
-Fixed position navbar that changes color on scroll
+EcoVoyage is a responsive landing page designed for a sustainable travel company promoting eco-friendly tourism experiences. The website features an interactive navigation menu, engaging content sections, and a clean, modern design that emphasizes environmental responsibility.
 
-Smooth hover effects with underline animation
 
-Responsive hamburger menu for mobile devices
 
-Active link highlighting
+## Live Demo
 
-2. Responsive Design
-Mobile-first approach
+Live at: [https://ramneetk0002.github.io/SCT\_WD\_1/](https://ramneetk0002.github.io/SCT_WD_1/)
 
-Flexible grid layouts
 
-Media queries for all device sizes
+## Features
 
-Optimized images for fast loading
+## 1. Interactive Navigation
 
-3. Engaging Sections
-Hero section with call-to-action buttons
+* Fixed-position navbar that changes color on scroll.
+* Smooth hover effects with underline animation.
+* Responsive hamburger menu for mobile devices.
+* Active link highlighting.
 
-About section with mission statement
+## 2. Responsive Design
 
-Destination cards with hover effects
+* Mobile-first approach.
+* Flexible grid layouts.
+* Media queries for all device sizes.
+* Optimized images for fast loading.
 
-Booking form with validation
+## 3. Engaging Sections
 
-Testimonials slider
+* Hero section with call-to-action (CTA) buttons.
+* About section with a mission statement.
+* Destination cards with hover effects.
+* Booking form with validation.
+* Testimonials slider.
+* Impact statistics.
+* Comprehensive footer.
 
-Impact statistics
+## 4. Interactive Elements
 
-Comprehensive footer
+* Smooth scrolling navigation.
+* Form submission handling.
+* Hover animations on cards and buttons.
+* Responsive image galleries.
 
-4. Interactive Elements
-Smooth scrolling navigation
 
-Form submission handling
 
-Hover animations on cards and buttons
+## Technologies Used
 
-Responsive image galleries
-
-Technologies Used
-HTML5
-
-CSS3 (Flexbox, Grid, Animations)
-
-JavaScript (for interactivity)
-
-Font Awesome (icons)
-
-Google Fonts (Poppins and Playfair Display)
+* HTML5
+* CSS3 (Flexbox, Grid, Animations)
+* JavaScript (for interactivity)
+* Font Awesome (icons)
+* Google Fonts (Poppins and Playfair Display)
